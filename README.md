@@ -9,16 +9,16 @@ It provides both executive-level insights and deep analytical views to support d
 ## 📷 Dashboard Preview
 
 ### Introduction Page
-![Introduction](Screenshots/introduction.png)
+![Introduction](Screenshots/intro.png)
 
 ### Executive Sales Overview
 ![Executive Overview](Screenshots/executive_overview.png)
 
 ### Customer & Product Insights
-![Customer Insights](Screenshots/customer_insights.png)
+![Customer & Product Insights](Screenshots/customer_product_insights.png)
 
 ### Profitability & Deep Analysis
-![Profitability Analysis](Screenshots/profitability_analysis.png)
+![Profitability & Deep Analysis](Screenshots/profitability_deep_analysis.png)
 
 1️⃣ Introduction Page
 
